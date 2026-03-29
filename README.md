@@ -19,8 +19,6 @@ Repository link: https://github.com/razvanspataru05/CPU-Simulator-8bit
 Real-time visualization of the Traveling Salesman Problem using a custom genetic algorithm pipeline.
 Repository link: https://github.com/razvanspataru05/TSP-Genetic-Algorithm-Visualizer
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=razvanspataru05)
-
 ## Contact
 - Email: razvanspataru38@gmail.com
 - Github: https://github.com/razvanspataru05
