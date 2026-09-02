@@ -13,11 +13,11 @@ I study Computer Science @ Transilvania University of Brașov. I'm passionate ab
 ## Featured Projects
 ### 8-Bit CPU Emulator
 Custom 8-bit ISA with 50+ instructions, simulating the fetch-decode-execute cycle and featuring real-time visualization.
-Repository link: https://github.com/razvanspataru05/CPU-Simulator-8bit
+Repository link: [8-Bit CPU Emulator](https://github.com/razvanspataru05/CPU-Simulator-8bit)
 
 ### TSP Genetic Algorithm Visualizer
 Real-time visualization of the Traveling Salesman Problem using a custom genetic algorithm pipeline.
-Repository link: https://github.com/razvanspataru05/TSP-Genetic-Algorithm-Visualizer
+Repository link: [TSP Genetic Algorithm Visualizer](https://github.com/razvanspataru05/TSP-Genetic-Algorithm-Visualizer)
 
 ## Contact
 - Email: razvanspataru38@gmail.com
