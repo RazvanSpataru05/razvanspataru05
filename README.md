@@ -8,6 +8,7 @@ I study Computer Science @ Transilvania University of Brașov. I'm passionate ab
 - Python
 - SFML, TGUI, ImGui
 - PostgreSQL
+- Git & GitHub
 - Algorithm & Data Structures
 
 ## Featured Projects
